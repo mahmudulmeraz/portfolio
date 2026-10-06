@@ -258,7 +258,11 @@ This project represents my personal portfolio and brand.
 The source code is publicly available for learning and reference, but the personal branding, content, project assets, images, videos, and other original materials should not be reused as personal work.
 
 ---
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+---
 > **BUILD • LEARN • EXPERIMENT**
 >
 > — Mahmudul Meraz Bhuiyan
