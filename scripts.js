@@ -199,7 +199,7 @@ const pieceD =
 
 
 /* =========================================================
-   STATE
+   STATE @mahmudulmeraz Bhuiyan-2026
 ========================================================= */
 
 let currentStage = 0;
@@ -224,7 +224,7 @@ buildImages.forEach(src => {
 
 
 /* =========================================================
-   IMAGE UPDATE
+   IMAGE UPDATE @mahmudulmerazBhuiyan
 ========================================================= */
 
 function updateBuildImage(index) {
@@ -267,7 +267,7 @@ function updateBuildImage(index) {
 
 
 /* =========================================================
-   STAGE CONTENT UPDATE
+   STAGE CONTENT UPDATE @mahmudulmeraz-2026
 ========================================================= */
 
 function updateBuildStage(index) {
@@ -288,7 +288,7 @@ function updateBuildStage(index) {
     String(index + 1).padStart(2, "0");
 
 
-  /* Content */
+  /* Content @mahmudulmeraz-2026 */
 
   stageIndex.textContent =
     `${number} / 07`;
@@ -432,7 +432,7 @@ function updateBuildStage(index) {
 
 
 /* =========================================================
-   CLICK NAVIGATION
+   CLICK NAVIGATION @mahmudulmeraz-2026
 ========================================================= */
 
 stageItems.forEach(
@@ -477,7 +477,7 @@ stageItems.forEach(
 
 
 /* =========================================================
-   SCROLL → STAGE
+   SCROLL → STAGE @mahmudulmeraz-2026
 ========================================================= */
 
 function updateBuildFromScroll() {
